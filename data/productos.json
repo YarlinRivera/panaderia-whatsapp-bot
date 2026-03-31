@@ -1,0 +1,50 @@
+{
+  "baguette": {
+    "nombre": "Baguette",
+    "categoria": "salado",
+    "stock_minimo": 20,
+    "receta": {
+      "harina": 0.23,
+      "levadura": 2.3,
+      "agua": 0.08,
+      "sal": 2.3
+    }
+  },
+  "croissant": {
+    "nombre": "Croissant",
+    "categoria": "salado",
+    "stock_minimo": 15,
+    "receta": {
+      "harina": 0.18,
+      "mantequilla": 0.09,
+      "levadura": 1.8,
+      "agua": 0.06,
+      "azucar": 3.6,
+      "sal": 1.8
+    }
+  },
+  "pan_dulce": {
+    "nombre": "Pan Dulce",
+    "categoria": "dulce",
+    "stock_minimo": 25,
+    "receta": {
+      "harina": 0.20,
+      "azucar": 0.04,
+      "huevos": 0.5,
+      "leche": 0.03,
+      "mantequilla": 0.02
+    }
+  },
+  "dona": {
+    "nombre": "Dona",
+    "categoria": "dulce",
+    "stock_minimo": 10,
+    "receta": {
+      "harina": 0.15,
+      "azucar": 0.08,
+      "huevos": 1,
+      "leche": 0.02,
+      "levadura": 3
+    }
+  }
+}
